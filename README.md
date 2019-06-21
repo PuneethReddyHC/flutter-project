@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+
+### Screen Record
+
+<img src="https://github.com/PuneethReddyHC/agriculture-app/blob/master/screenrecord/20190621_205435.gif" width=250>   
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
