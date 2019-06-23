@@ -2,8 +2,11 @@
 
 A new Flutter application.
 
+# video
 
-### Screen Record
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/haApAi_pdFk)
+
+# Screen Record
 
 <img src="https://github.com/PuneethReddyHC/agriculture-app/blob/master/screenrecord/20190621_205435.gif" width=250>   
 
